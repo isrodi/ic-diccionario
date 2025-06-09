@@ -8,5 +8,5 @@ Ejemplo de integración continúa para
 * Esto es un ejemplo
 * Esto no es un ejemplo
 
-La educación continua es importante.
-Error ortografíco qoiwjheoqwijhei
+La educacion continua es importante.
+Error ortografico.
